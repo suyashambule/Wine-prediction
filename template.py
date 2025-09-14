@@ -8,7 +8,6 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s')
 # Define the project name
 project_name = 'datascience'
 
-# List of files and directories to be created
 list_of_files = [
     ".github/workflows/.gitkeep",
     f'src/{project_name}/__init__.py',
@@ -27,7 +26,7 @@ list_of_files = [
     "main.py",
     "Dockerfile",
     "setup.py",
-    "research/research.ipynb",  # Added missing comma
+    "research/research.ipynb", 
     "templates/index.html"
 ]
 
