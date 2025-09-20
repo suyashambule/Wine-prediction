@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/suyash/Desktop/Wine-prediction/mlruns/0/d2648600c1464a8f995c79756103aeca/artifacts
+end_time: 1758354867665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2648600c1464a8f995c79756103aeca
+run_name: sneaky-moth-320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758354866262
+status: 3
+tags: []
+user_id: suyash

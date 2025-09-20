@@ -1,0 +1,10 @@
+artifact_location: file:///Users/suyash/Desktop/Wine-prediction/mlruns/0/models/m-1bee7ea7cc3d4a4b812e342a510dc097/artifacts
+creation_timestamp: 1758354866277
+experiment_id: '0'
+last_updated_timestamp: 1758354867664
+model_id: m-1bee7ea7cc3d4a4b812e342a510dc097
+model_type: null
+name: model
+source_run_id: d2648600c1464a8f995c79756103aeca
+status: 2
+status_message: null

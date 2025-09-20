@@ -1,0 +1,22 @@
+artifact_path: file:///Users/suyash/Desktop/Wine-prediction/mlruns/0/models/m-1bee7ea7cc3d4a4b812e342a510dc097/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-1bee7ea7cc3d4a4b812e342a510dc097
+model_size_bytes: 913
+model_uuid: m-1bee7ea7cc3d4a4b812e342a510dc097
+prompts: null
+run_id: d2648600c1464a8f995c79756103aeca
+utc_time_created: '2025-09-20 07:54:26.281927'
